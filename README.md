@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/betül-gündüz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="betül-gündüz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/bet%c3%bcl-g%c3%bcnd%c3%bcz-316733227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bet%c3%bcl-g%c3%bcnd%c3%bcz-316733227/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,4 +21,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=betul-gunduz&" alt="betul-gunduz" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=betul-gunduz&label=Profile%20views&color=0e75b6&style=flat" alt="betul-gunduz" /> </p>
-
