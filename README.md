@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Betül Gündüz</h1>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **React**
 
